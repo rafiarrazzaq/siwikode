@@ -34,7 +34,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="member" data-aos="zoom-in">
                     <div class="pic">
-                        <img src="<?= base_url("public/assets/img/razaq.jpeg") ?>" class="img-fluid" alt="" style="width: 300px; height: 400px;">
+                        <img src="<?= base_url("public/assets/img/razaq.jpg") ?>" class="img-fluid" alt="" style="width: 300px; height: 400px;">
                     </div>
                     <div class="member-info">
                         <h4>Muhammad Rafi Ar-razzaq</h4>
